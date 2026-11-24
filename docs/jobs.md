@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS. PIPERA, NR.43, CLADIREA B-FLOREASCA PARK, ET.3 SI PARTE |
 | Website | [https://www.printecgroup.com](https://www.printecgroup.com) |
 | Careers | [https://apply.workable.com/printec/](https://apply.workable.com/printec/) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-23T17:38:15.526870+00:00_
+_Generated: 2026-11-24T17:09:08.616755+00:00_
 
 ### Account Manager
 

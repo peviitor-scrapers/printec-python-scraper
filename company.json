@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-11-23T17:38:12.011379+00:00",
+  "validatedAt": "2026-11-24T17:09:06.230587+00:00",
   "source": "ANAF",
   "brand": "Printec",
   "anaf": {
@@ -57,23 +57,16 @@
     "onrcStatusLabel": "Funcțiune"
   },
   "peviitor": {
-    "id": "09225910",
+    "id": "9225910",
     "company": "PRINTEC GROUP ROMANIA SRL",
-    "brand": "Printec",
+    "brand": "PRINTEC",
     "status": "activ",
     "location": [
-      "MUNICIPIUL BUCUREŞTI, SECTOR 2, ŞOS. PIPERA, NR.43, CLADIREA B-FLOREASCA PARK, ET.3 SI PARTE"
+      "Bucureşti Sectorul 2"
     ],
-    "website": [
-      "https://www.printecgroup.com"
-    ],
-    "career": [
-      "https://apply.workable.com/printec/"
-    ],
-    "lastScraped": "2026-11-22",
-    "scraperFile": "https://github.com/amaliatanase/printec-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1882568211123142656,
-    "_root_": "09225910"
+    "lastScraped": "2026-08-02",
+    "_version_": 1882588568327553024,
+    "_root_": "9225910"
   },
   "summary": {
     "company": "PRINTEC GROUP ROMANIA SRL",
